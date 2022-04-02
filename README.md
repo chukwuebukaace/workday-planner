@@ -25,3 +25,6 @@ https://github.com/chukwuebukaace/workday-planner
 ##### Usage
 
 Link to deployed instance of the application: https://chukwuebukaace.github.io/workday-planner/
+
+##### screenshot of the App
+![screenshot of app](./assets/images/IMG_0057.jpeg)
