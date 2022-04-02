@@ -19,8 +19,9 @@ Upload index.html, license.txt, and assets folder to the deployed webserver. Ass
 
 The application shown below was deployed using GitHub Pages. The repository can be replicated by via fork, clone, and redeployment with GitHub Pages.
 
-Link to repository: https://github.com/pkriengsiri/workday-planner
+Link to repository: 
+https://github.com/chukwuebukaace/workday-planner
 
 ##### Usage
 
-Link to deployed instance of the application:
+Link to deployed instance of the application: https://chukwuebukaace.github.io/workday-planner/
